@@ -2,12 +2,7 @@
 
 Portfólio profissional de ciência de dados, analytics e machine learning.
 
-## Desenvolvimento local
 
-```bash
-npm install
-npm run dev
-```
 
 ## Publicação
 
